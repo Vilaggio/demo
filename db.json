@@ -1,29 +1,35 @@
 { 
         "clients": [
         {
-            "FirstName": Bill,
-            "LastName": Harrison,
-            "Email": bill1@gmail.com
+           
+            "FirstName": "Billl",
+            "LastName": "Harrison",
+            "Email": "bill1@gmail.com"
         },
         {
-            "FirstName": Sally,
-            "LastName": Smith,
-            "Email": JS61@gmail.com
+           
+            "FirstName": "Sally",
+            "LastName": "Smith",
+            "Email": "JS61@gmail.com"
         },
         {
-            "FirstName": Michael,
-            "LastName": Marino,
-            "Email": mschlott61@gmail.com
+            
+            "FirstName": "Michael",
+            "LastName": "Marino",
+            "Email": "mschlott61@gmail.com"
         },
         {
-            "FirstName": Suzy,
-            "LastName": Miller,
-            "Email": Suzy@gmail.com
+           
+            "FirstName": "Suzy",
+            "LastName": "Miller",
+            "Email": "Suzy@gmail.com"
         },
         {
-            "FirstName": Betty,
-            "LastName": Rubble,
-            "Email": BettyB@gmail.com
+           
+            "FirstName": "Betty",
+            "LastName": "Rubble",
+            "Email": "BettyB@gmail.com"
+        }
         }
     ]
 }
