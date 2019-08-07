@@ -1,32 +1,25 @@
 [
         {
-            "Client#": "1004",
-            "ClientID": "1004",
-            "FirstName": "Billl",
+            "FirstName": "Bill",
             "LastName": "Harrison",
             "Email": "bill1@gmail.com"
         },
         {
-            "ClientID": "1002",
             "FirstName": "Sally",
             "LastName": "Smith",
             "Email": "JS61@gmail.com"
         },
         {
-            "Client#": "1001",
-            "ClientID": "1001",
             "FirstName": "Michael",
             "LastName": "Marino",
             "Email": "mschlott61@gmail.com"
         },
         {
-            "ClientID": "1003",
             "FirstName": "Suzy",
             "LastName": "Miller",
             "Email": "Suzy@gmail.com"
         },
         {
-            "ClientID": "1006",
             "FirstName": "Betty",
             "LastName": "Rubble",
             "Email": "BettyB@gmail.com"
