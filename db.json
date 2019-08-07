@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    "Items": [
+        {
+            "Client#": "1004",
+            "ClientID": "1004",
+            "FirstName": "Billl",
+            "LastName": "Harrison",
+            "Email": "bill1@gmail.com"
+        },
+        {
+            "ClientID": "1002",
+            "FirstName": "Sally",
+            "LastName": "Smith",
+            "Email": "JS61@gmail.com"
+        },
+        {
+            "Client#": "1001",
+            "ClientID": "1001",
+            "FirstName": "Michael",
+            "LastName": "Marino",
+            "Email": "mschlott61@gmail.com"
+        },
+        {
+            "ClientID": "1003",
+            "FirstName": "Suzy",
+            "LastName": "Miller",
+            "Email": "Suzy@gmail.com"
+        },
+        {
+            "ClientID": "1006",
+            "FirstName": "Betty",
+            "LastName": "Rubble",
+            "Email": "BettyB@gmail.com"
+        }
