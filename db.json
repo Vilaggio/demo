@@ -2,32 +2,37 @@
         "clients": [
         {
            
-            "FirstName": "Billl",
-            "LastName": "Harrison",
+            "name": "Bill",
+            "age": 35,
+            "lastname": "Harrison",
             "Email": "bill1@gmail.com"
         },
         {
            
-            "FirstName": "Sally",
-            "LastName": "Smith",
+            "name": "Sally",
+             "age": 25,
+            "lastName": "Smith",
             "Email": "JS61@gmail.com"
         },
         {
             
-            "FirstName": "Michael",
-            "LastName": "Marino",
+            "name": "Michael",
+            "age": 53,
+            "lastName": "Marino",
             "Email": "mschlott61@gmail.com"
         },
         {
            
-            "FirstName": "Suzy",
-            "LastName": "Miller",
+            "name": "Suzy",
+            "age": 41,
+            "lastName": "Miller",
             "Email": "Suzy@gmail.com"
         },
         {
            
-            "FirstName": "Betty",
-            "LastName": "Rubble",
+            "name": "Betty",
+             "age": 58,
+            "lastName": "Rubble",
             "Email": "BettyB@gmail.com"
         }
         }
